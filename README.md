@@ -1,16 +1,20 @@
-# React + Vite
+# 🚀 Rafael Brandão - Soluções Digitais sob Medida
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém o código-fonte da minha plataforma de consultoria e portfólio de soluções. 
 
-Currently, two official plugins are available:
+Diferente de um portfólio tradicional, este projeto reflete minha abordagem de **tecnologia focada em resultados de negócio**, automação de processos e conversão de vendas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Soluções Destaque
+* **BeaMedControl**: Sistema de gestão hospitalar focado em segurança de dados e controle de medicamentos.
+* **Conex Contadores**: Landing Page institucional otimizada para captação de leads.
 
-## React Compiler
+## 💻 Tecnologias Utilizadas
+* **React.js** (Interface moderna e rápida)
+* **Vite** (Performance de desenvolvimento)
+* **Firebase Hosting** (Hospedagem segura e escalável)
+* **Mobile-First Design** (Otimizado para todos os dispositivos)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📞 Contato
+Interessado em transformar sua ideia em um produto real?
+- [WhatsApp](https://wa.me/5521999999999)
+- [LinkedIn](https://linkedin.com/in/SEU_USER)
